@@ -1,0 +1,4 @@
+CounterFit==0.1.3.dev29
+counterfit-connection==0.1.0.dev5
+counterfit-shims-seeed-python-dht==0.1.0.dev1
+
